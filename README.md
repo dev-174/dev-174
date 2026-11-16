@@ -1,6 +1,6 @@
 # 💫 About Me:
 B.E. Computer Engineering @ Lok Jagruti University (2024–2028) 
-• 🌱 Currently in Semester 4<br>
+• 🌱 Currently in Semester 5<br>
 • 🌱 I'm currently learning AI/ML, Agentic AI & building autonomous systems<br>
 
 
